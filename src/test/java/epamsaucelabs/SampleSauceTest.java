@@ -12,7 +12,7 @@ import java.net.URL;
 public class SampleSauceTest {
 
     public static final String USERNAME = "SarmisthaJena";
-    public static final String ACCESS_KEY = "ea90bd3e-c363-499e-8d72-9dc87ea65be6";
+    public static final String ACCESS_KEY = "";
     public static final String URL = "https://" + USERNAME + ":" + ACCESS_KEY + "@ondemand.saucelabs.com:443/wd/hub";
 
     public static void main(String[] args) throws Exception {
