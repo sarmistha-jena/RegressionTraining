@@ -11,7 +11,7 @@ import java.util.ArrayList;
 
 public class LambdaTestDemo {
     String username = "sarmistha.jena";
-    String accesskey = "DuvXVqaYyriqd7ovVXJJarFOOjyxAiEuN3zQY4m9mfWsmyvyle";
+    String accesskey = "";
     static RemoteWebDriver driver = null;
     String gridURL = "@hub.lambdatest.com/wd/hub";
     boolean status = false;
